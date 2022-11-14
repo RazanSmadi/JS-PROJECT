@@ -1,2 +1,2 @@
-# JS-PROJECT
-online quiz
+# Project-2
+My JS project
