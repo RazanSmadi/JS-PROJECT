@@ -1,2 +1,2 @@
 # JS-PROJECT
-online quiz
+Quiz Website for Academy
